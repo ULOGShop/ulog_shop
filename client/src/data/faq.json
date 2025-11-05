@@ -1,0 +1,92 @@
+{
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about our store, products, and services",
+    "categories": [
+        {
+            "id": "general",
+            "name": "General",
+            "icon": "IconHelp",
+            "questions": [
+                {
+                    "question": "What is ULOG Store?",
+                    "answer": "ULOG Store is a premium FiveM store offering high-quality scripts, resources, and assets for your FiveM server. We provide MLOs, scripts, and other resources to enhance your gaming experience."
+                },
+                {
+                    "question": "How do I create an account?",
+                    "answer": "Click on the 'Account' button in the top right corner and log in with your FiveM/CFX account and Discord. Both authentications are required to make purchases."
+                },
+                {
+                    "question": "Are the products tested?",
+                    "answer": "Yes, all products in our store are thoroughly tested before being listed. We ensure quality and compatibility with the latest FiveM versions."
+                }
+            ]
+        },
+        {
+            "id": "purchases",
+            "name": "Purchases & Payments",
+            "icon": "IconShoppingCart",
+            "questions": [
+                {
+                    "question": "What payment methods do you accept?",
+                    "answer": "We accept various payment methods including Credit/Debit Cards, PayPal, and other options through our secure Tebex checkout system."
+                },
+                {
+                    "question": "How do I add items to my cart?",
+                    "answer": "Browse our products, click on any item you want to purchase, and click the 'Add to Cart' button. You can view your cart by clicking the shopping cart icon in the top right."
+                },
+                {
+                    "question": "Can I get a refund?",
+                    "answer": "Due to the digital nature of our products, refunds are handled on a case-by-case basis. Please contact our support team if you encounter any issues with your purchase."
+                },
+                {
+                    "question": "Do you offer discounts?",
+                    "answer": "Yes! We regularly offer sales and discounts on selected products. Keep an eye on our store for special promotions and seasonal sales."
+                }
+            ]
+        },
+        {
+            "id": "downloads",
+            "name": "Download & Installation",
+            "icon": "IconKey",
+            "questions": [
+                {
+                    "question": "How do I download my purchased products?",
+                    "answer": "After completing your purchase, you will receive an email with download instructions. You can also access your purchases through your account dashboard."
+                },
+                {
+                    "question": "How do I install the scripts/MLOs?",
+                    "answer": "Each product comes with detailed installation instructions. Generally, you will need to extract the files to your FiveM server resources folder and add them to your server.cfg file."
+                },
+                {
+                    "question": "Can I use the products on multiple servers?",
+                    "answer": "Licensing terms vary by product. Please check the specific product description for licensing information. Most products are licensed per server instance."
+                }
+            ]
+        },
+        {
+            "id": "support",
+            "name": "Support",
+            "icon": "IconMailFast",
+            "questions": [
+                {
+                    "question": "How do I get support?",
+                    "answer": "You can contact our support team through Discord or by opening a support ticket. We typically respond within 24 hours during business days."
+                },
+                {
+                    "question": "What if I have issues with a product?",
+                    "answer": "If you encounter any issues with a purchased product, please contact our support team with details about the problem. We will work with you to resolve any issues."
+                },
+                {
+                    "question": "Do you provide updates for products?",
+                    "answer": "Yes! We regularly update our products to ensure compatibility with the latest FiveM versions and to add new features. Updates are free for existing customers."
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "Still have questions?",
+        "description": "If you couldn't find the answer you're looking for, feel free to contact our support team. We're here to help!",
+        "discordUrl": "https://discord.gg/your-discord",
+        "discordButtonText": "Join our Discord"
+    }
+}

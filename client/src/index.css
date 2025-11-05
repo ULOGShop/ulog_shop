@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: #111111;
+    color: #FFFFFF;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+#root {
+    background-color: transparent;
+    min-height: 100vh;
+    position: relative;
+}
+
+.mantine-AppShell-root {
+    background-color: transparent !important;
+}
+
+.mantine-AppShell-main {
+    background-color: transparent !important;
+    min-height: calc(100vh - 70px - 80px);
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-100%/3));
+    }
+}
+
+.mantine-Tabs-panel ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.mantine-Tabs-panel li {
+    color: #FFFFFF;
+    margin-bottom: 0.5rem;
+}
+
+.mantine-Tabs-panel h3 {
+    color: #BAF329;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.mantine-Tabs-panel .space-y-4>*+* {
+    margin-top: 1rem;
+}
+
+.mantine-Tabs-panel .space-y-2>*+* {
+    margin-top: 0.5rem;
+}
+
+.mantine-Tabs-panel .border-b {
+    border-bottom: 1px solid #2a2a2a;
+}
+
+.mantine-Tabs-panel .border-gray-700 {
+    border-color: #2a2a2a;
+}
+
+.mantine-Tabs-panel .pb-2 {
+    padding-bottom: 0.5rem;
+}
+
+.mantine-Tabs-panel .ml-6 {
+    margin-left: 1.5rem;
+}
+
+.mantine-Tabs-panel .flex {
+    display: flex;
+}
+
+.mantine-Tabs-panel .items-start {
+    align-items: flex-start;
+}
+
+.mantine-Tabs-panel .mr-2 {
+    margin-right: 0.5rem;
+}

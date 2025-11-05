@@ -1,0 +1,215 @@
+{
+    "packages": {
+        "6985364": {
+            "tags": [
+                {"name": "OPEN SOURCE", "bg": "#22c55e", "text": "#fff"},
+                {"name": "STORE", "bg": "#eab308", "text": "#000"}
+            ],
+            "tabs": [
+                {
+                    "id": "description",
+                    "name": "Description",
+                    "type": "content",
+                    "content": "default"
+                },
+                {
+                    "id": "features",
+                    "name": "Features",
+                    "type": "content",
+                    "content": [
+                        "<ul class='space-y-4'>",
+                            "<li class='pb-2 border-b border-gray-700'>",
+                                "<h3 class='text-xl font-bold text-[#BAF329] mb-2'>👮 Police Equipment</h3>",
+                                "<ul class='ml-6 space-y-2'>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Four-color Siren (Blue, Yellow, Red, White)</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Callsign Numbers for unit identification</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Division Numbers for specialized department markings</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Rank System: Gang Unit, Command, Supervisor, Warden, Paramedic, S.W.A.T., Caution K-9, and K-9</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Pushbar Options: Basic Pushbar, Patrol Pushbar, Response Pushbar, Prowler Pushbar, Interceptor Pushbar, Tactical Pushbar, Assault Pushbar</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Trunk Loadouts: Patrol Supplies, Traffic Supplies, Tactical Supplies, Medical Supplies</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Interior equipment (MDT, Gunrack, Radars, Cameras, Cage, Siren Controller)</span>",
+                                    "</li>",
+                                "</ul>",
+                            "</li>",
+                            "<li class='pb-2 border-b border-gray-700'>",
+                                "<h3 class='text-xl font-bold text-[#BAF329] mb-2'>🚨 Additional Vehicle Features</h3>",
+                                "<ul class='ml-6 space-y-2'>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>1 Liveries (LSPD)</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Loudspeaker on the pushbar</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Template</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Possibility to change handling (Meta files are unlocked)</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Possibility to add more liveries (10 Liveries slots Available)</span>",
+                                    "</li>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Liveries are as tuning (.yft file)</span>",
+                                    "</li>",
+                                "</ul>",
+                            "</li>",
+                            "<li>",
+                                "<h3 class='text-xl font-bold text-[#BAF329] mb-2'>⚙️ Technical Stuff</h3>",
+                                "<ul class='ml-6 space-y-2'>",
+                                    "<li class='flex items-start'>",
+                                        "<span class='text-[#BAF329] mr-2'>•</span>",
+                                        "<span>Optimized 3D model for FiveM with high detail and low performance impact</span>",
+                                    "</li>",
+                                    "<li>",
+                                        "<span class='font-semibold'>File Sizes:</span>",
+                                        "<ul class='ml-6 mt-2 space-y-1'>",
+                                            "<li class='flex items-start'>",
+                                                "<span class='text-[#BAF329] mr-2'>•</span>",
+                                                "<span>ulog_polsentinel5.yft | 3,948KB</span>",
+                                            "</li>",
+                                            "<li class='flex items-start'>",
+                                                "<span class='text-[#BAF329] mr-2'>•</span>",
+                                                "<span>ulog_polsentinel5.ytd | 3,780KB</span>",
+                                            "</li>",
+                                            "<li class='flex items-start'>",
+                                                "<span class='text-[#BAF329] mr-2'>•</span>",
+                                                "<span>ulog_polsentinel5_hi.yft | 3,971KB</span>",
+                                            "</li>",
+                                            "<li class='flex items-start'>",
+                                                "<span class='text-[#BAF329] mr-2'>•</span>",
+                                                "<span>ulog_polsentinel5+hi.ytd | 272KB</span>",
+                                            "</li>",
+                                            "<li class='flex items-start'>",
+                                                "<span class='text-[#BAF329] mr-2'>•</span>",
+                                                "<span>vehicles_jugular_interior.ytd | 927KB</span>",
+                                            "</li>",
+                                        "</ul>",
+                                    "</li>",
+                                "</ul>",
+                            "</li>",
+                        "</ul>"
+                    ]
+                },
+                {
+                    "id": "gallery",
+                    "name": "Gallery",
+                    "type": "images",
+                    "images": [
+                        {
+                            "url": "https://media.discordapp.net/attachments/1380723073304756254/1433292372376031324/86626D1F-7239-4E98-9B3F-30AEFCAAA7EF.png?ex=6904290a&is=6902d78a&hm=bb721d74502a597334acf3a174167863e71b85e22a632c3886482b2bbf1a820d&",
+                            "alt": "Photo 1"
+                        },
+                        {
+                            "url": "https://media.discordapp.net/attachments/1380723073304756254/1433292449467469884/47518E45-8F7E-4F2D-93CB-D741268F5F68.png?ex=6904291d&is=6902d79d&hm=d098e3403e2f5dac17d664b3802d8807db86bfaf73014e0efa156e48a11c7b52&",
+                            "alt": "Photo 2"
+                        },
+                        {
+                            "url": "https://media.discordapp.net/attachments/1380723073304756254/1433292517549277194/60D74C39-D7A7-482A-A20A-F5B30C5D84C8.png?ex=6904292d&is=6902d7ad&hm=9019be9b676f897b51e9ce6b819494e3f63a4ff8aa4f6c62b58ae11df4df9006&",
+                            "alt": "Photo 3"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433292566215921675/466A6988-274D-4AB7-9858-CD72C0DD375C.png?ex=69042939&is=6902d7b9&hm=938ac75d159fa67e1e8df9b051d00fdd0ac674490bc91ae0fcd2f682d8885d55&",
+                            "alt": "Photo 4"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433292616392376410/40EA7BE1-3419-41EA-AF52-BFD15AEAF557.png?ex=69042945&is=6902d7c5&hm=02f9a71411e2b25533c90f46582b49411a287d37f3b5f70c7e87bf0f1059c91c&",
+                            "alt": "Photo 5"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433292647841403012/B309BAF9-AC91-460A-8DAE-D0B5E549C4CE.png?ex=6904294c&is=6902d7cc&hm=843e0ea7d06e86989fb583eba188d5160260dbb4d7afa1c8ce7247aa0209cd58&",
+                            "alt": "Photo 6"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433292694767272067/CBF92A10-074A-4028-A3F1-2F6FD20B4C81.png?ex=69042957&is=6902d7d7&hm=1531ebcc78ef5deba90818e7d39e24c81b6383cfed64bead810cfa691cceb0ef&",
+                            "alt": "Photo 7"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433292877160779806/56D843B2-019C-4F47-9EBB-D662C6CFDE58.png?ex=69042983&is=6902d803&hm=de639b3bef85881fcf9595288e1727801fb8869d2f429c6ddb4421203ea01892&",
+                            "alt": "Photo 8"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433292979761582091/50380A39-9AA3-4F37-ABDE-A1D1505BD431.png?ex=6904299b&is=6902d81b&hm=5f80b1324c7200cf26bbd703e3f23c6d1bab3ffc202306e08e2d9b31ea3e9cf2&",
+                            "alt": "Photo 9"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433293041619439638/DC2FDC45-A911-4D52-8AC6-C62152DCE347.png?ex=690429aa&is=6902d82a&hm=35f3404a6523ba56de4a397c96542dc510f5af59f1fff85987f2f567f05cea1a&",
+                            "alt": "Photo 10"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433293110879981568/629F6E95-3DD9-4AF2-AA78-65564E25D4DE.png?ex=690429ba&is=6902d83a&hm=cad8451cd8b860b8f96e41c95f7fcab2b02e123233981939538c207a95dd8cbc&",
+                            "alt": "Photo 11"
+                        },
+                        {
+                            "url": "https://cdn.discordapp.com/attachments/1380723073304756254/1433293165208666192/67F6C34B-B296-4207-A756-4F04CFBCAC17.png?ex=690429c7&is=6902d847&hm=f463881fbf8db93e96f4fa0f9d8c935c5fa5287ec935f580d38fac9a6664338c&",
+                            "alt": "Photo 12"
+                        }
+                    ]
+                },
+                {
+                    "id": "installation",
+                    "name": "Installation",
+                    "type": "content",
+                    "content": [
+                        "<div class='space-y-6'>",
+                            "<p class='text-lg text-gray-300'>Follow these steps to install the Police Sentinel vehicle:</p>",
+                            "<ol class='list-decimal space-y-3 ml-6 text-gray-300'>",
+                                "<li>Download the package from your Tebex account</li>",
+                                "<li>Extract the files to your FiveM server resources folder</li>",
+                                "<li>Add <code class='bg-gray-800 px-2 py-1 rounded text-[#BAF329]'>start ulog_polsentinel</code> to your server.cfg</li>",
+                                "<li>Restart your server</li>",
+                                "<li>Spawn the vehicle using the command: <code class='bg-gray-800 px-2 py-1 rounded text-[#BAF329]'>/spawnvehicle ulog_polsentinel5</code></li>",
+                            "</ol>",
+                            "<div class='mt-6 p-4 bg-gray-800/50 rounded-lg border border-gray-700'>",
+                                "<p class='text-gray-400'>",
+                                    "<span class='text-[#BAF329] font-semibold'>💡 Need Help?</span> ",
+                                    "For detailed installation instructions, please refer to our documentation or contact support.",
+                                "</p>",
+                            "</div>",
+                        "</div>"
+                    ]
+                }
+            ]
+        }
+    },
+    "defaultTabs": [
+        {
+            "id": "description",
+            "name": "Description",
+            "type": "content",
+            "content": "default"
+        },
+        {
+            "id": "features",
+            "name": "Features",
+            "type": "content",
+            "content": "<p class='text-gray-300'>This product includes a range of features designed to enhance your gameplay experience. Check back later for detailed feature information.</p>"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "ulog_shop_backend",
+    "version": "2.0.0",
+    "description": "Secure backend for ULOG Tebex Store",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node index.js",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "tebex",
+        "express",
+        "api"
+    ],
+    "author": "ULOG",
+    "license": "PRIVATE",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.2",
+        "express-rate-limit": "^7.4.1",
+        "helmet": "^8.0.0",
+        "joi": "^17.13.3",
+        "mysql2": "^3.11.5"
+    }
+}

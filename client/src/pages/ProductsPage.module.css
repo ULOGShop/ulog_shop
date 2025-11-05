@@ -1,0 +1,12 @@
+.authStepper :global(.mantine-Stepper-stepIcon[data-completed]) {
+    background: #BAF329 !important;
+    border-color: #BAF329 !important;
+}
+
+.authStepper :global(.mantine-Stepper-stepIcon[data-progress]) {
+    border-color: #BAF329 !important;
+}
+
+.authStepper :global(.mantine-Stepper-separator[data-active]) {
+    background: #BAF329 !important;
+}
